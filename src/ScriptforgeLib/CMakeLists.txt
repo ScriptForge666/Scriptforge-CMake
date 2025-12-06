@@ -1,0 +1,1 @@
+add_library(Scriptforge STATIC Scriptforge.hpp ScriptforgeErr.cpp ScriptforgeErr.hpp ScriptforgeLog.cpp ScriptforgeLog.hpp ScriptforgeTime.cpp ScriptforgeTime.hpp ScriptforgeTree.cpp ScriptforgeTree.hpp)
