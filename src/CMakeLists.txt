@@ -1,0 +1,2 @@
+add_subdirectory(ScriptforgeLib)
+add_subdirectory(ScriptforgeTest)
